@@ -4,7 +4,7 @@
 import fractions
 
 num_start = 1
-num_end = 5
+num_end = 10000
 
 sum = 0
 for num in range (num_start, num_end + 1):
